@@ -43,6 +43,10 @@ export default function App() {
   );
 }
 
+
+
+
+
 // delete function:
 // let handledelete=(taskname)=>{
 //   let newlist=list.filter(task=>{
@@ -51,16 +55,22 @@ export default function App() {
 //   setlist(newlist)
 // }
 
+
+
 // delete function:
 // let handledelete=(taskname)=>{
 //   let newlist=list.filter(task=> task!== taskname);
 //   setlist(newlist);
 // }
 
+
+
 // delete function:
 // let handledelete=(taskname)=>{
 //   setlist(list.filter(task=>task!==taskname))
 // }
+
+
 
 // delete function
 //  let handledelete=(taskname)=>{
